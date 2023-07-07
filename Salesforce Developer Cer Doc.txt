@@ -1,0 +1,40 @@
+platform developer 1
+_____________________________________________________
+
+Sales and service configuration.
+Sales and service management.
+Implementation of automation.    
+Debugging.
+Data validation.
+Configuring user interface.
+
+-------------------------
+
+All the Details
+-------------------------------------------------------========================================
+
+There are 60 multiple-choice questions, 
+and test-takers have 105 minutes to complete the exam. 
+The minimum score to pass is 63%.
+
+ For the Developer I exam, 
+the cost is also $200, and there are 60 multiple choice questions,            
+but test takers have 110 minutes. The minimum passing score is 65%.
+____________________________________________________________________________________________
+
+Salesforce Certified Platform Developer
+
+Generally, it takes around 1-2 months of preparation to ace the Salesforce developer certification exam. 
+To be precise, it takes 59 learning hours to prepare for the exam systematically.
+------------------------------------------------------------------------------------------------------
+At S2 Labs we offer Salesforce Platform Developer 1 Certification Training in which we cover the following topics:
+Learning Apex basics.
+
+OOPS concepts.
+SOQL.
+SOSL.
+Apex DML.
+Database Methods.
+Apex Triggers.
+Apex Testing.
+LWC
